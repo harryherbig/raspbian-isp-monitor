@@ -1,0 +1,2 @@
+# speedtest log
+5 * * * * $HOME/speedtest.sh
